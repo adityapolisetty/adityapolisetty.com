@@ -17,7 +17,7 @@ Work in Progress
 
 - **On Home Mover Dependence in UK Housing**
 
-Research Assistance
+Pre-doctoral Research Assistance
 ------
 - **[Household Finance in Retrospect and Prospect](https://www.nber.org/papers/w34621)** — John Y. Campbell and Tarun Ramadorai. NBER Working Paper 34621, 2026 (forthcoming, *Journal of Finance: Insights and Perspectives*).
 
@@ -25,17 +25,13 @@ Research Assistance
 
 - **[Putty-Clay Automation](https://josebamartinez.me/pdf/PuttyClayAutomation.pdf)** — Joseba Martinez. London Business School and CEPR, 2025.
 
-- **[Short-Term Tax Cuts, Long-Term Stimulus](https://www.nber.org/papers/w30246)** — James Cloyne, Joseba Martinez, Haroon Mumtaz and Paolo Surico. NBER Working Paper 30246, 2022 (revised 2025).
-
 - **[In Search of the Matching Function in the Housing Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594519)** — Cristian Badarinza, Vimal Balasubramaniam and Tarun Ramadorai. Working Paper, 2024.
-
-- **[Tax Evasion and the "Swiss Cheese" Regulation](https://www.dropbox.com/scl/fi/daxkm9w8aci2neh4zb26p/MR_TaxEvasion_SwissCheeseRegulation_2024.pdf)** — Clara Martínez-Toledano and Nina Roussille. Working Paper, 2024.
 
 - **[The Sweet Life: The Long-Term Effects of a Sugar-Rich Early Childhood](https://www.nber.org/papers/w30799)** — Paul Gertler and Tadeja Gračner. NBER Working Paper 30799, 2023 (R&R, *Journal of Political Economy*).
 
 Projects
 ------
-- **[VC Fund Game](https://vcgames.vercel.app/)** — co-developed an interactive venture capital investment simulation in which players allocate a budget across funding rounds to build a portfolio under uncertainty.
+- **[VC Fund Game](https://vcgames.vercel.app/)** — an interactive venture capital investment simulation in which players allocate a budget across funding rounds to build a portfolio under uncertainty; co-developed with [Ramana Nanda](https://www.imperial.ac.uk/business-school/authors/rnanda) and [Savitar Sundaresan](https://www.savitars.com/).
 
 Teaching
 ------
