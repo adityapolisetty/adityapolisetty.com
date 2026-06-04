@@ -47,6 +47,7 @@ Other Experience
 Education
 ------
 - PhD in Financial Economics, Imperial College London, UK (*ongoing*)
+  - Recipient of the Imperial President's Scholarship for academic excellence
 - MSc in Economics, University of Warwick, UK, 2019
 - Chartered Accountant, India, 2016
 - Bachelor of Commerce, Osmania University, India, 2015
