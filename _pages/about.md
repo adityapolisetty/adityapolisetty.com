@@ -27,7 +27,7 @@ Teaching
 
 Research Assistance
 ------
-Projects I worked on as a pre-doctoral research assistant, prior to my PhD:
+Research projects I worked on as a pre-doctoral research assistant (2020 to 2023), prior to my PhD:
 
 - **[Household Finance in Retrospect and Prospect](https://www.nber.org/papers/w34621)** — John Y. Campbell and Tarun Ramadorai. NBER Working Paper 34621, 2026 (forthcoming, *Journal of Finance: Insights and Perspectives*).
 
