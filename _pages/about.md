@@ -29,7 +29,7 @@ Research Assistance
 ------
 Research projects I worked on as a pre-doctoral research assistant (2020 to 2023), prior to my PhD:
 
-- **[Household Finance in Retrospect and Prospect](https://www.nber.org/papers/w34621)** — John Y. Campbell and Tarun Ramadorai. NBER Working Paper 34621, 2026 (forthcoming, *Journal of Finance: Insights and Perspectives*).
+- **[Household Finance in Retrospect and Prospect](https://www.nber.org/papers/w34621)** — John Y. Campbell and Tarun Ramadorai. NBER Working Paper, 2026 (forthcoming, *Journal of Finance: Insights and Perspectives*).
 
 - **[Fixed: Why Personal Finance Is Broken and How to Make It Work for Everyone](https://press.princeton.edu/books/hardcover/9780691263298/fixed)** — John Y. Campbell and Tarun Ramadorai. Princeton University Press, 2025.
 
