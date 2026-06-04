@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Aditya Polisetty"
-masthead_title           : "Welcome to my personal website!"
+masthead_title           : "Welcome!"
 title_separator          : "-"
 name                     : &name "Aditya Polisetty"
 description              : &description "PhD student in Financial Economics at Imperial College London"   # Update this with a general description of your site, this is the default if not overridden by a page
