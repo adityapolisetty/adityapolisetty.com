@@ -44,7 +44,6 @@ Other Experience
 - **Deloitte Haskins and Sells**, Hyderabad, India — Audit and Assurance (2013–2017)
   - Assistant Manager (2016–2017)
   - Trainee (2013–2016)
-  - *Part of a team that won the Green Dot Award for significant contribution to the audit practice.*
 
 Education
 ------
