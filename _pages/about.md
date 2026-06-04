@@ -25,7 +25,7 @@ Teaching
 ------
 - TA for Corporate Finance for MSc Finance (Imperial College London)
 
-Research Assistance
+Pre-doctoral Research Assistance
 ------
 Research projects I worked on as a pre-doctoral research assistant (2020 to 2023), prior to my PhD:
 
@@ -42,7 +42,9 @@ Research projects I worked on as a pre-doctoral research assistant (2020 to 2023
 Other Experience
 ------
 - **Deloitte Haskins and Sells**, Hyderabad, India — Audit and Assurance (2013–2017)
-  Assistant Manager (2016–2017) and Trainee (2013–2016). Part of a team that won the Green Dot Award for significant contribution to the audit practice.
+  - Assistant Manager (2016–2017)
+  - Trainee (2013–2016)
+  - *Part of a team that won the Green Dot Award for significant contribution to the audit practice.*
 
 Education
 ------
