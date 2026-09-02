@@ -25,6 +25,14 @@ Teaching
 ------
 - TA for Corporate Finance for MSc Finance (Imperial College London)
 
+Education
+------
+- PhD in Financial Economics, Imperial College London, UK (*ongoing*)
+  - Recipient of the Imperial President's Scholarship for academic excellence
+- MSc in Economics, University of Warwick, UK, 2019 (Distinction)
+- Chartered Accountant, India, 2016
+- Bachelor of Commerce, Osmania University, India, 2015
+
 Pre-doctoral Research Assistance
 ------
 Research projects I worked on as a pre-doctoral research assistant (2020 to 2023), prior to my PhD:
@@ -44,11 +52,3 @@ Other Experience
 - **Deloitte Haskins and Sells**, Hyderabad, India — Audit and Assurance (2013–2017)
   - Assistant Manager (2016–2017)
   - Trainee (2013–2016)
-
-Education
-------
-- PhD in Financial Economics, Imperial College London, UK (*ongoing*)
-  - Recipient of the Imperial President's Scholarship for academic excellence
-- MSc in Economics, University of Warwick, UK, 2019 (Distinction)
-- Chartered Accountant, India, 2016
-- Bachelor of Commerce, Osmania University, India, 2015
