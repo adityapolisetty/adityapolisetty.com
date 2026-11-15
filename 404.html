@@ -1,96 +1,86 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Aditya Polisetty</title>
-<meta name="description" content="The website of Aditya Polisetty is coming soon.">
+<meta name="description" content="Aditya Polisetty. Website coming soon.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f8f7f3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0e1320" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="/favicon.ico">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,600&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,400&display=swap" rel="stylesheet">
 <style>
-  /* One centred sign on a quiet field, in the old site's Oxford Navy and Source Sans */
   :root {
-    --bg: #fbfbfd;
-    --fg: #172036;
-    --muted: #5d6779;
+    --bg: #f8f7f3;
+    --ink: #1b2130;
     --accent: #14387f;
-    --rule: #d9deea;
-    --font-display: "Source Serif 4", Georgia, "Times New Roman", serif;
-    --font-body: "Source Sans 3", "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-    color-scheme: light;
+    --rule: rgba(20, 56, 127, 0.35);
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --bg: #0c1220;
-      --fg: #e7ebf3;
-      --muted: #9aa4b8;
-      --accent: #93b2f2;
-      --rule: #24304a;
-      color-scheme: dark;
+      --bg: #0e1320;
+      --ink: #e8e9ee;
+      --accent: #9db4e3;
+      --rule: rgba(157, 180, 227, 0.4);
     }
   }
-  * { box-sizing: border-box; }
-  html, body { height: 100%; }
+  *, *::before, *::after { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; }
   body {
-    margin: 0;
-    display: grid;
-    place-items: center;
-    min-height: 100vh;
-    min-height: 100dvh;
     background: var(--bg);
-    color: var(--fg);
-    font-family: var(--font-body);
-    padding-block: 48px;
-    padding-left: max(16px, env(safe-area-inset-left, 0px));
-    padding-right: max(16px, env(safe-area-inset-right, 0px));
+    color: var(--ink);
+    font-family: "Source Sans 3", "Source Sans Pro", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
   }
   main {
+    min-height: 100vh;
+    min-height: 100svh;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    gap: 28px;
-    width: 100%;
-    max-width: 32rem;
-  }
-  .domain {
-    margin: 0;
-    font-size: 0.8rem;
-    font-weight: 600;
-    letter-spacing: 0.16em;
-    text-transform: uppercase;
-    color: var(--muted);
+    align-items: center;
+    justify-content: center;
+    gap: clamp(1.75rem, 4vw, 2.5rem);
+    padding: 2rem 1.5rem;
+    text-align: center;
   }
   h1 {
     margin: 0;
-    font-family: var(--font-display);
-    font-weight: 600;
-    font-size: clamp(2.4rem, 8vw, 3.75rem);
+    font-family: "Source Serif 4", Georgia, serif;
+    font-weight: 400;
+    font-size: clamp(2.25rem, 9vw, 4.5rem);
     line-height: 1.05;
     letter-spacing: -0.01em;
+    color: var(--ink);
     text-wrap: balance;
-    padding-bottom: 28px;
-    border-bottom: 1px solid var(--rule);
-    width: 100%;
+  }
+  .rule {
+    width: 3rem;
+    height: 1px;
+    background: var(--rule);
   }
   .sign {
+    display: inline-block;
     margin: 0;
-    padding: 14px 22px;
-    border: 2px solid var(--accent);
-    color: var(--accent);
-    font-size: 1rem;
+    padding: 0.7em 1.4em 0.75em;
+    border: 1px solid var(--rule);
+    font-size: clamp(0.75rem, 2.6vw, 0.875rem);
     font-weight: 600;
-    letter-spacing: 0.18em;
+    letter-spacing: 0.22em;
     text-transform: uppercase;
+    color: var(--accent);
+    padding-right: calc(1.4em - 0.22em);
   }
 </style>
 </head>
 <body>
-  <main>
-    <p class="domain">adityapolisetty.com</p>
-    <h1>Aditya Polisetty</h1>
-    <p class="sign">Website coming soon</p>
-  </main>
+<main>
+  <h1>Aditya Polisetty</h1>
+  <div class="rule" aria-hidden="true"></div>
+  <p class="sign">Website coming soon</p>
+</main>
 </body>
 </html>
